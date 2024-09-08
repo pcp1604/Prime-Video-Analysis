@@ -36,5 +36,3 @@ Amazon Prime Video is a strong competitor in the global streaming space due to i
 - Improve user interface for better content discovery
 - Increase focus on regional content in emerging markets
 
-## License
-This project is licensed under the MIT License.
